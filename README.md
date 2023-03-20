@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
+<h3 align="center">WebDeveloper|IOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairajput&label=Profile%20views&color=0e75b6&style=flat" alt="jairajput" /> </p>
+
+- 🌱 I’m currently learning **React,Solidity,IOS Development**
 
 - 💬 Ask me about **react js , reactNative, Blockchain**
 
