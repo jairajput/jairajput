@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
+<h3 align="center">WebDeveloper|IOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairajput&label=Profile%20views&color=0e75b6&style=flat" alt="jairajput" /> </p>
+
+- 🔭 I’m currently getting my hands dirty in tech **in Tech**
 
 - 🌱 I’m currently learning **React,Solidity,IOS Development**
 
@@ -21,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairajput&show_icons=true&locale=en" alt="jairajput" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajput&" alt="jairajput" /></p>
+
