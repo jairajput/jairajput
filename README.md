@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairajput&label=Profile%20views&color=0e75b6&style=flat" alt="jairajput" /> </p>
 
-- 🔭 I’m currently getting my hands dirty in tech **in Tech**
+- 🔭 I’m currently getting my hands dirty **in Tech**
 
 - 🌱 I’m currently learning **React,Solidity,IOS Development**
 
