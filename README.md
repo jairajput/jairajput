@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **React,Solidity,IOS Development**
 
-- 💬 Ask me about **react js , reactNative, Blockchain**
+- 💬 Ask me about ** iOS, SwiftUI ,react js , reactNative, Blockchain**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jai7rajput/**
+- https://twitter.com/jai7rajput
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
