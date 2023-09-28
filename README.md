@@ -1,20 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jai</h1>
-<h3 align="center">WebDeveloper|IOS Developer</h3>
+<h1 align="center"> Hey , I'm Jai</h1>
+<h3 align="center">iOS Developer | FrontEnd Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairajput&label=Profile%20views&color=0e75b6&style=flat" alt="jairajput" /> </p>
 
-- 🔭 I’m currently getting my hands dirty **in Tech**
+- IOS Development,React,Solidity,
 
-- 🌱 I’m currently learning **React,Solidity,IOS Development**
-
-- 💬 Ask me about ** iOS, SwiftUI ,react js , reactNative, Blockchain**
-
-- 📫 How to reach me **https://www.linkedin.com/in/jai7rajput/**
-- https://twitter.com/jai7rajput
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jai7rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai7rajput" height="30" width="40" /></a>
+- Ask me about *iOS, SwiftUI ,react js , reactNative, Blockchain
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +13,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajput&" alt="jairajput" /></p>
+
 
