@@ -1,5 +1,5 @@
 <h1 align="center"> Hey , I'm Jai</h1>
-<h3 align="center">iOS Developer | FrontEnd Developer </h3>
+<h3 align="center">iOS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairajput&label=Profile%20views&color=0e75b6&style=flat" alt="jairajput" /> </p>
 
